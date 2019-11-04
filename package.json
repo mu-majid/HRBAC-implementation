@@ -1,0 +1,12 @@
+{
+  "name": "RBAC-implementation",
+  "version": "1.0.0",
+  "description": "Followed This Post https://blog.nodeswat.com/implement-access-control-in-node-js-8567e7b484d1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Majid, Following Instructions From Karl Düüna",
+  "license": "ISC"
+}
